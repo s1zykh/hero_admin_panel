@@ -44,4 +44,4 @@
 
 ## Скриншот интерфейса
 
-![Интерфейс](https://github.com/s1zykh/employee-accounting/blob/main/src/assets/screenshot.png)
+![Интерфейс](https://github.com/s1zykh/hero_admin_panel/blob/main/src/assets/screenshot.png)
