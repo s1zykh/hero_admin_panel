@@ -1,30 +1,48 @@
 {
-  "heroes": [],
+  "heroes": [
+    {
+      "id": "476bc769-7629-42ea-82d7-4806167a186a",
+      "name": "Зуко",
+      "description": "Принц Народа Огня",
+      "element": "fire"
+    },
+    {
+      "id": "ec4a3ff0-e013-480e-8a33-6dc347025698",
+      "name": "Аанг",
+      "description": "Единственный оставшийся в живых представитель нации Воздушных кочевников",
+      "element": "wind"
+    }
+  ],
   "filters": [
     {
       "name": "all",
       "label": "Все",
-      "className": "btn-outline-dark"
+      "className": "btn-outline-dark",
+      "id": "ef03"
     },
     {
       "name": "fire",
       "label": "Огонь",
-      "className": "btn-danger"
+      "className": "btn-danger",
+      "id": "05c3"
     },
     {
       "name": "water",
       "label": "Вода",
-      "className": "btn-primary"
+      "className": "btn-primary",
+      "id": "abe1"
     },
     {
       "name": "wind",
       "label": "Ветер",
-      "className": "btn-success"
+      "className": "btn-success",
+      "id": "c6a4"
     },
     {
       "name": "earth",
       "label": "Земля",
-      "className": "btn-secondary"
+      "className": "btn-secondary",
+      "id": "87fa"
     }
   ]
 }
